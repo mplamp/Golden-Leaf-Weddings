@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1, h2, h3{
+	font-family: 'Dancing Script', cursive;
+	color:#CCBB24;
+	text-align: center;
+}
+h4, h5, h6 ,p{
+	color: #CCBB24;
+	text-align: center;
+}
+hr{
+	border: 1px solid #CCBB24;
+}
+
+.logoImg{
+	margin: -10px auto 0;
+	position: relative
+}
+Ul.nav a:link {
+	color:#53B6FF !important;
+}
+
+Ul.nav a:visited {
+	color:#53B6FF !important;
+}
+Ul.nav a:hover{
+	background-color: #CCBB24 !important; 
+	color:white !important;
+}
+Ul.nav li.ative{
+	background-color:#CCBB24 !important;
+}
+
+footer{
+	border:2px solid #CCBB24;
+}
+.ftCol{
+	border-right:2px solid #CCBB24;
+}
+button.gwBtn , #contSubmit{
+	background-color:#fff;
+	color:#CCBB24;
+	border-color:10px solid #CCBB24;
+	border-radius: 10px;
+	width:200px;
+	height: 50px;
+	margin: 20px auto 50px;
+	
+}
+
+button.gwBtn:active , #contSubmit:active{
+	background-color:#fff;
+	color:#CCBB24;
+	border-color:10px solid #CCBB24;
+	border-radius: 10px;
+	width:200px;
+	height: 50px;
+	margin: 0 auto;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+}
+

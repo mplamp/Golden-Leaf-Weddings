@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+	font-size: 70px;
+}
+.venueImg{
+	border: 3px solid #CCBB24;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+	margin:  20px auto;
+}
